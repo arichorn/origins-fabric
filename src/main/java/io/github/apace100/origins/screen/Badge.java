@@ -1,6 +1,7 @@
 package io.github.apace100.origins.screen;
 
 import io.github.apace100.calio.data.SerializableData;
+import io.github.apace100.calio.data.SerializableData.Instance;
 import io.github.apace100.calio.data.SerializableDataTypes;
 import io.github.apace100.origins.Origins;
 import net.minecraft.util.Identifier;
